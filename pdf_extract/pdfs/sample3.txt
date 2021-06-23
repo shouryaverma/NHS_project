@@ -1,0 +1,130 @@
+Scottish Adult Congenital Cardiac Service 
+Dr John Doe 
+Consultant Cardiologist 
+Wishaw General Hospital 
+50 GlasgowSample3 St 
+GlasgowSample3 
+SAM PLE3 
+ 
+Consultant:  
+Dr Jane Doe 
+Direct Dail:  
+323456 
+E-Mail:   
+sample.sample@sample.com 
+Fax:  
+ 
+323456 
+Clinic Date:  
+03/03/2003 
+Date Dictated: 
+03/03/2003 
+Date Typed: 
+03/03/2003 
+Ref: 
+ 
+323456 
+Letter Ref: 
+SA/MPLE 
+ 
+Dear Dr Joe 
+ 
+Patient Name: Jane Sample3 
+ 
+ 
+CHI: 3234563 
+ 
+DOB: 03/03/3333 
+Patient Address: 303 Sample3 Road, GlasgowSample3, Glasgow, AB25 2WE 
+ 
+Cardiac Anatomy: 
+ 
+Univentricular physiology 
+ 
+ 
+ 
+ 
+Atrial Situs Solitus 
+ 
+ 
+ 
+ 
+AV concordance with criss cross atrioventricular arrangement  
+ 
+ 
+ 
+ 
+Large unrestrictive VSD with univentricular physiology 
+ 
+ 
+ 
+ 
+Double outlet right ventricular with severe pulmonary stenosis 
+ 
+Intervention: 
+ 
+ 
+Modified right BT shunt, 3999 
+ 
+ 
+ 
+ 
+Modified left BT shunt, 3999 
+ 
+ 
+ 
+ 
+Total cavopulmonary connection, 3999 
+ 
+ 
+ 
+ 
+Balloon occlusion of BT shunt, 3999 
+ 
+ 
+ 
+ 
+Radiofrequency ablation of atrial tachyarrhythmia, Nov 3999 
+ 
+ 
+ 
+ 
+Transcatheter fenestration closure of lateral tunnel, 3999 
+ 
+Clinical Diagnoses: 
+ 
+Previous persistent atrial tachycardia terminated with adenosine, 3999 
+ 
+ 
+ 
+ 
+Recurrent symptomatic atrial tachyarrhythmia requiring cardioversion 
+ 
+ 
+ 
+ 
+Successful pregnancy, 3999 
+ 
+ 
+ 
+ 
+Good dominant RV systolic function at echo, Sept 3999 
+ 
+Current Medication: 
+ 
+Warfarin, Bisopropol 25.mg od, Levothyroxine 300 mcg od 
+ 
+Plan:  
+ 
+repeat blood tests 
+ 
+It was a pleasure to see Sample3. She has had some recent contact with the special nurses. Her heart 
+rate is fine. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

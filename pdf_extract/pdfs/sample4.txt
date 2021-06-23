@@ -1,0 +1,60 @@
+Scottish Adult Congenital Cardiac Service 
+Dr John Doe 
+Consultant Cardiologist 
+Wishaw General Hospital 
+50 GlasgowSample4 St 
+GlasgowSample4 
+SAM PLE4 
+ 
+Consultant:  
+Dr Jane Doe 
+Direct Dail:  
+424456 
+E-Mail:   
+sample.sample@sample.com 
+Fax:  
+ 
+424456 
+Clinic Date:  
+04/04/2004 
+Date Dictated: 
+04/04/2004 
+Date Typed: 
+04/04/2004 
+Ref: 
+ 
+424456 
+Letter Ref: 
+SA/MPLE 
+ 
+Dear Dr Joe 
+ 
+Patient Name: Jane Sample4 
+ 
+ 
+CHI: 4244564 
+ 
+DOB: 04/04/4444 
+Patient Address: 404 Sample4 Road, GlasgowSample4, Glasgow, DG12 5JP 
+ 
+Clinical Diagnoses: 
+ 
+Loeys-Dietz syndrome – TGFB II variant 
+ 
+ 
+ 
+ 
+Dilated aortic root 
+ 
+ 
+ 
+ 
+Carotid and cerebral artery aneurysms 
+ 
+Current Medication: 
+ 
+Losartan 12.5mg od increased today to 25mg od 
+ 
+Plan: 
+It was a pleasure to review Mrs Asher in clinic today. She was diagnosed with Loeys-Dietz syndrome. She 
+has been well with no symptoms. Her heart rate is good. 

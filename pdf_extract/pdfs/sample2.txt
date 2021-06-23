@@ -1,0 +1,66 @@
+Scottish Adult Congenital Cardiac Service 
+Dr John Doe 
+Consultant Cardiologist 
+Wishaw General Hospital 
+50 GlasgowSample2 St 
+GlasgowSample2 
+GSAM PLE2 
+ 
+Consultant:  
+Dr Jane Doe 
+Direct Dail:  
+223456 
+E-Mail:   
+sample.sample@sample.com 
+Fax:  
+ 
+223456 
+Clinic Date:  
+02/02/2002 
+Date Dictated: 
+02/02/2002 
+Date Typed: 
+02/02/2002 
+Ref: 
+ 
+223456 
+Letter Ref: 
+SA/MPLE
+Dear Dr John 
+ 
+Patient Name: David Sample2  
+ 
+CHI: 2234562 
+ 
+DOB: 02/02/2222 
+Patient Address: 202 Sample2 Road, GlasgowSample2, Glasgow, KY11 8DE 
+ 
+Cardiac Anatomy: 
+1. Univentricular physiology 
+2. Situs solitus, levocardia 
+3. Unbalanced AVSD favouring the dominant LV 
+4. Ventriculo-arterial concordance 
+5. Large atrial and ventricular components of the AVSD 
+Previous Intervention: 
+1. Pulmonary artery band – 1997 
+2. Bidirectional Glenn anastomosis – 2001 
+3. TCPC completion with fenestrated extra-cardiac 20mm Goretex conduit 2003 
+4. Device closure of fenestration with a 5mm Amplatzer septal occluder 
+ 
+Diagnoses: 
+1. Moderately impaired dominant LV systolic function at MRI 2020 
+2. Good Common AV value function 
+3. Moderate sub pulmonary stenosis with severe residua obstruction at the level of the 
+pulmonary artery band 
+4. Unobstructed cavo-pulmonary pathway at MRI 
+5. Fontan associated liver disease with stable benign focal lesions requiring annual MRI 
+6. Currently under investigation for possible Cushing’s syndrome 
+ 
+Medication: 
+1. Warfarin 
+2. Thyroxine 
+3. Candesartan 20mg daily 
+4. Fluoxetine 
+Plan: 
+David is doing fine. He has not experienced any cardiac abnormalities. His heart is fine. No one bothers 
+him. 

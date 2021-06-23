@@ -1,0 +1,54 @@
+Scottish Adult Congenital Cardiac Service 
+Dr John Doe 
+Consultant Cardiologist 
+Wishaw General Hospital 
+50 GlasgowSample6 St 
+GlasgowSample6 
+GSAM PLE6 
+ 
+Consultant:  
+Dr Jane Doe 
+Direct Dail:  
+663456 
+E-Mail:   
+sample.sample@sample.com 
+Fax:  
+ 
+663456 
+Clinic Date:  
+06/06/2006 
+Date Dictated: 
+06/06/2006 
+Date Typed: 
+06/06/2006 
+Ref: 
+ 
+663456 
+Letter Ref: 
+SA/MPLE 
+Dear Dr John 
+ 
+Patient Name: David Sample6  
+ 
+CHI: 6634566 
+ 
+DOB: 06/06/2006 
+Patient Address: 606 Sample6 Road, GlasgowSample6, Glasgow, KA8 8NX 
+ 
+Cardiac Anatomy: 
+1. Probable VSD 
+2. Inferior sinus venosus defect with normal pulmonary venous drainage 
+Previous Intervention: 
+1. Probable surgical VSD closure age 3 years 
+Clinical Diagnoses: 
+1. Presentation with sustained VT, non-inducible at subsequent EP 
+2. Severely dilated right ventricle with mildly impaired systolic function 
+3. Mild tricuspid regurgitation 
+4. Good left ventricular systolic function 
+5. Large inferior sinus venosus defect with significant shunt 
+6. PA pressure with PCWP at right heart catheterisation with normal coronary arteries 
+Medication: 
+1. Bisoprolol 2.5mg daily 
+Plan: 
+David is doing fine. He had undergone his right and left catheter. 
+ 

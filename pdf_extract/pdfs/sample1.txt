@@ -1,0 +1,104 @@
+Scottish Adult Congenital Cardiac Service 
+Dr John Doe 
+Consultant Cardiologist 
+Wishaw General Hospital 
+50 GlasgowSample1 St 
+GlasgowSample1 
+SAM PLE1 
+ 
+Consultant:  
+Dr Jane Doe 
+Direct Dail:  
+123456 
+E-Mail:   
+sample.sample@sample.com 
+Fax:  
+ 
+123456 
+Clinic Date:  
+01/01/2001 
+Date Dictated: 
+01/01/2001 
+Date Typed: 
+01/01/2001 
+Ref: 
+ 
+123456 
+Letter Ref: 
+SA/MPLE 
+Dear Dr Joe 
+ 
+Patient Name: David Sample1  
+ 
+CHI: 1234561 
+ 
+DOB: 01/01/1111 
+Patient Address: 101 Sample1 Road, GlasgowSample1, Glasgow, G72 9UG 
+ 
+Diagnoses: 
+ 
+ 
+Congenital Mitral Stenosis 
+ 
+ 
+ 
+ 
+Suspected Aortic Coarctation 
+ 
+ 
+ 
+ 
+Mild LV dysfunction  
+ 
+ 
+ 
+ 
+Gradient Mitral Valve 
+ 
+ 
+ 
+ 
+Attending Psychiatry to resolve health issues 
+ 
+ 
+ 
+ 
+Atrial Flutter 
+ 
+Previous Intervention:  
+Surgical Mitral Valvotomy - 1999 
+ 
+ 
+ 
+ 
+Electrical Cardioversion for atrial flutter - 1999 
+ 
+ 
+ 
+ 
+Mitral valve replacement - 1999 
+ 
+ 
+ 
+ 
+Electrical cardioversion for recurrent atrial flutter - 1999 
+ 
+ 
+ 
+ 
+EP Study and radiofrequency ablation for atrial flutter - 1999 
+ 
+Current Medication: 
+ 
+Bisoprolol 2.5mg od, Lisinopril 3.4mg od, Warfarin as per INR, 
+Salbutamol, Fostair, Fluoxetine 
+ 
+Plan:  
+ 
+Annual review in Wishaw 
+ 
+ 
+Reassess SACCS 3 years with ECG, echo and CPET 
+ 
+It was a pleasure to see Sample1. He attended on his own. His asthma is okay. He remains well. He is  
+living with his mum and her partner. He is not employed. No one bothers him.  
